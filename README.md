@@ -66,5 +66,3 @@ Robot Framework Tutorial
 - **Video Courses**: Beginner-friendly full courses are available on YouTube.  
 
 ---
-
-Firman, since you’re already exploring **Robot Framework basics and test automation setup**, I’d suggest starting with **SeleniumLibrary** for web testing, then gradually experimenting with **API testing** and **database libraries**. Would you like me to walk you through a **step-by-step first project setup on Windows 11** (since that’s your environment)?

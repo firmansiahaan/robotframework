@@ -1,7 +1,7 @@
 *** Settings ***
 Library    SeleniumLibrary
 Library    Browser
-Task Setup    Browser.Open Browser    https://www.tutorialspoint.com/index.htm    chromium
+Task Setup    Browser.Open Browser    https://www.tutorialspoint.com/index.htm    firefox
 Task Teardown    Browser.Close Browser
 
 

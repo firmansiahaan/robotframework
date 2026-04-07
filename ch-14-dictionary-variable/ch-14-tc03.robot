@@ -7,7 +7,7 @@ Suite Teardown    Close Browser
 
 *** Variables ***
 ${BROWSER}    firefox
-${URL}    file:///D:/Firman/Programming/robot/tutorial/html/login.html
+${URL}    file:///D:/Firman/Programming/robotframework/robotframework/html/login.html
 &{LOGON_DETAILS}    email=admin@gmail.com    password=admin
 
 

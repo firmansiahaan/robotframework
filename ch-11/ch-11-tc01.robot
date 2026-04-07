@@ -7,7 +7,7 @@ Suite Teardown    Close Browser
 
 *** Variables ***
 ${BROWSER}    firefox
-${URL}    file:///d:/Firman/Programming/robot/tutorial/html/checkbox.html
+${URL}    file:///D:/Firman/Programming/robotframework/robotframework/html/checkbox.html
 
 
 *** Test Cases ***

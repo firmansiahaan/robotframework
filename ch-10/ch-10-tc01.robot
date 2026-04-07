@@ -7,7 +7,7 @@ Suite Teardown    Close Browser
 
 *** Variables ***
 ${BROWSER}    firefox
-${URL}    file:///d:/Firman/Programming/robot/tutorial/html/Radiobutton.html
+${URL}    file://D:\Firman\Programming\robotframework\robotframework\html/Radiobutton.html
 
 
 *** Test Cases ***
