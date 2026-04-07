@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title>Login Page</title>
+</head>
+<body>
+    <script type="text/javascript">
+        function wsSubmit() {
+            if (document.getElementById("email").value == "admin@gmail.com" &&
+                document.getElementById("passwd").value == "admin") {
+                location.href = "file:///D:/Firman/Programming/robot/tutorial/html/success.html";
+            } else {
+                location.href = "file:///D:/Firman/Programming/robot/tutorial/html/loginfailed.html";
+            }
+        }
+    </script>
+    <div id="formdet">
+        Email : <input type="text" id="email" value="" id="email" /><br/><br/>
+        Password : <input type="password" id="passwd" value="" /><br/><br/>
+        <input type="submit" id="btnsubmit" value="Submit" onClick="wsSubmit();"/>
+    </div>
+</body>
+</html>
