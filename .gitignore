@@ -1,0 +1,8 @@
+# Robot Framework execution outputs
+output.xml
+log.html
+report.html
+
+# If you use a custom output directory (e.g., --outputdir results)
+results/
+.venv/
